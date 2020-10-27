@@ -1,0 +1,8 @@
+<!--pages/example/example.wxml-->
+<button bindtap="onGET">GET</button>
+
+<button bindtap="onPOST">POST</button>
+
+<button bindtap="all">all</button>
+
+<button bindtap="race">race</button>

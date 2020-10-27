@@ -1,0 +1,27 @@
+{
+  "name": "utils-tool-mpweixin",
+  "version": "0.0.1",
+  "miniprogram": "miniprogram_dist",
+  "main": "index.js",
+  "repository": "git@github.com:JdesEva/utils-tool-mpweixin.git",
+  "author": "Jdeseva",
+  "description": "微信小程序常用工具类",
+  "license": "MIT",
+  "private": true,
+  "keywords": [
+    "Axios",
+    "mpweixin",
+    "wechat",
+    "微信小程序"
+  ],
+  "bugs": {
+    "url": "https://github.com/JdesEva/utils-tool-mpweixin/issues"
+  },
+  "homepage": "https://github.com/JdesEva/utils-tool-mpweixin#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
