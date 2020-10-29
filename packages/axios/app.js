@@ -1,5 +1,5 @@
 //app.js
-const { axios } = require('./src/axios')
+const { axios } = require('axios-for-mpweixin')
 
 App({
   onLaunch: function () {
